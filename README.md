@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack software Engineer
 ----------------------------
 
-I am a hard working, self motivated, problem solver who enjoys learning new skills. I am an outdoors enthusiast and enjoy spending my time fishing, hiking, biking, camping and so on. I have recently graduated from a software immersive bootcamp where I gained valuable experience working with multiple teams while building frontend, backend, and full-stack applications. I am excited to have completed this course and am looking forward to finding a full-time remote permanent software engineering position.
+I am a hard working, self motivated, problem solver who enjoys learning new skills. I am an outdoors enthusiast and enjoy spending my time fishing, hiking, biking, camping and so on. I have recently graduated from a software immersive bootcamp where I gained valuable experience working with multiple teams while building frontend, backend, and full-stack applications. I am excited to have completed this course and found a full-time remote permanent software engineering position.
 
-* 🌍  I'm based in Caldwell Idaho
+* 🌍  I live in Caldwell Idaho
 * ✉️  You can contact me at [kyle.dick0811@gmail.com](mailto:kyle.dick0811@gmail.com)
 * 🚀  I'm currently working on [a personal project](http://https://github.com/KDD87/Application_Tracker)
 * 🧠  I'm learning Java
-* ⚡  I am a big soccer fan and so I am really enjoying getting to watch the FIFA Women's World Cup
+* ⚡  I am a big soccer fan and so I really enjoyed getting to watch the FIFA Women's World Cup
 
 ### Skills
 
